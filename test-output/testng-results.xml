@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-23T11:56:53 IST" name="Default suite" finished-at="2024-04-23T11:57:12 IST" duration-ms="19162">
+    <groups>
+    </groups>
+    <test started-at="2024-04-23T11:56:53 IST" name="Default test" finished-at="2024-04-23T11:57:12 IST" duration-ms="19162">
+      <class name="Selenium.Logintest">
+        <test-method is-config="true" signature="navigateTo()[pri:0, instance:Selenium.Logintest@60fa3495]" started-at="2024-04-23T11:56:53 IST" name="navigateTo" finished-at="2024-04-23T11:56:59 IST" duration-ms="6810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateTo -->
+        <test-method signature="login()[pri:1, instance:Selenium.Logintest@60fa3495]" started-at="2024-04-23T11:56:59 IST" name="login" finished-at="2024-04-23T11:57:04 IST" duration-ms="4570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="buzz()[pri:2, instance:Selenium.Logintest@60fa3495]" started-at="2024-04-23T11:57:04 IST" name="buzz" finished-at="2024-04-23T11:57:11 IST" duration-ms="7156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buzz -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:Selenium.Logintest@60fa3495]" started-at="2024-04-23T11:57:11 IST" name="exit" finished-at="2024-04-23T11:57:12 IST" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- Selenium.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
